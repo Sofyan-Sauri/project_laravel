@@ -68,7 +68,7 @@ h4 {
 				<div class='box-body border-radius-none'>	
 				<p>Ini adalah UTS milik sofyan sauri
 Contoh   ::</p>
-<h4>Belajar Mudah denganjavascrpit "Coba Sendiri"</h4>
+<h4>Ini hasil dari laravel yang di edit oleh Sofyan Sauri</h4>
 
 <p>4 Ways to Declare a JavaScript Variable:</p>
 
