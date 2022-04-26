@@ -103,7 +103,7 @@
 				</li><li>
 					<a href='?module=JS Array Iteration'><i class='fa fa-angle-double-right'></i>JS Array Iteration[    ]</a>
 				</li><li>
-					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'>			</i>JS Syntax		[   ]</a>
+				<a href="{{route('jssofyan') }}"><i class='fa fa-angle-double-right'>	   </i>JS Sofyan Sauri [ 	Sofyan Sauri	]</a>
 				</li><li>
 					<a href='?module=JS Syntax'><i class='fa fa-angle-double-right'></i>JS Syntax</a>
 				</li><li>
@@ -158,6 +158,7 @@
 		</ul>
 	</li><li class='treeview'><a href='#'><i class='fa fa-desktop'></i><span>Tutorial  PostgreSQL</span><i class='fa fa-angle-left pull-right'></i></a> 
 		<ul class='treeview-menu'>
+			
 				<li>
 					<a href='?module=Tutorial  PostgreSQL1'><i class='fa fa-angle-double-right'></i> Introduction</a>
 				<li>
