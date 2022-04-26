@@ -52,8 +52,8 @@ uic_r_a()
 <div id='breadcrumb'>
 <ul>
   <!--membuat Link ke module lain atau berpindah ke halaman lain  -->
-		<li><a href="{{ route('adminhome') }}" >Dashboard</a></li>
-		<li><a href="{{ route('jsintro') }}">Sebelumnya JS</a></li>
+		<li><a href="{{ route('adminhome') }}" >kembali ke Dashboard awal</a></li>
+		<li><a href="{{ route('jsintro') }}">Sebelumnya masuk ke JS Sofyan</a></li>
 
 </ul>
 </div>
@@ -89,7 +89,7 @@ title="Close Menu" style="font-weight:bold;padding-top:10px;padding-bottom:11px;
 		<!DOCTYPE html>
 		<html>
 		<head>
-		<title>judul halaman JS namakamu</title>
+		<title>Sofyan sauri</title>
 
 </head>
 <body>
