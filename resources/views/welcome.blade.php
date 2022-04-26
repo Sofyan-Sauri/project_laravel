@@ -63,13 +63,13 @@
 									<li class='dropdown user user-menu'>
 										<a href='#' class='dropdown-toggle' data-toggle='dropdown'>
 												<i class='glyphicon glyphicon-user'></i>
-												<span>Yanti <i class='caret'></i></span>
+												<span>Sofyan sauri <i class='caret'></i></span>
 										</a>
 										<ul class='dropdown-menu'>
 											<!-- User image -->
 											<li class='user-header bg-light-blue'>
 													<img src='../foto_banner/foto.jpg' class='img-circle'/>
-													<p>Yanti</p>
+													<p>Sofyan Sauri</p>
 											</li>
 											<li class='user-footer'>
 												<div class='pull-left'>
@@ -95,10 +95,10 @@
 				<!-- Sidebar user panel -->
 					<div class='user-panel'>
 						<div class='pull-left image'>
-							<img src='../foto_banner/foto.jpg' class='img-circle' alt='Yanti' />
+							<img src='../sofyan.jpg' class='img-circle' alt='Sofyan' />
                         </div>
                         <div class='pull-left info'>
-                            <p>Hello, Yanti</p>
+                            <p>Hello, Sofyan Sauri</p>
 
                             <a href='#'><i class='fa fa-circle text-success'></i> Online</a>
                         </div>
