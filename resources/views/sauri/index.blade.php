@@ -52,7 +52,7 @@ h4 {
 <aside class='right-side'>
 <!-- Content Header (Page header) -->
 <section class='content-header'>
-<h1>Tutorial HTML</h1>
+<h1>UTS Sofyan Sauri</h1>
 </section>
 
 		<!-- Main content -->
@@ -66,8 +66,7 @@ h4 {
 					<h3 class='box-title'>Universitas Bhayangkara Jakarta Raya</h3>
 				</div>
 				<div class='box-body border-radius-none'>	
-				<p>JavaScript  Tutorial
-JS adalah bahasa pemrograman yang sering di gunakan di aplikasi berbasi webde ++, Anda dapat mengeditjavascrpit dan jalankan di browser anda.
+				<p>Ini adalah UTS milik sofyan sauri
 Contoh   ::</p>
 <h4>Belajar Mudah denganjavascrpit "Coba Sendiri"</h4>
 
