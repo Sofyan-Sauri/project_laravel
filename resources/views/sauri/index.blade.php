@@ -116,8 +116,7 @@ document.getElementById("demo").innerHTML ="The value of z is: " + z;<br>
 	<hr>
 
 <h2>JSA Examples</h2>
-<p>Dalam tutorial HTML ini, Anda akan menemukan lebih dari 200 contoh. Dengan online kami
-&quot;Coba Sendiri&quot; editor, Anda dapat mengedit dan menguji setiap contoh sendiri!</p>
+<p>Ini hasil UTS sofyan sauri yang sederhana!</p>
 <p><a href="html_examples.asp" class="ws-btn ws-grey ws-hover-black">Buka Contoh HTML!</a></p>
 <div id="midcontentadcontainer" style="overflow:auto;text-align:center">
 <!-- MidContent -->
