@@ -86,23 +86,50 @@ title="Close Menu" style="font-weight:bold;padding-top:10px;padding-bottom:11px;
  <!--menampilkan editor buatan sendiri    -->
  <textarea autocomplete="off" id="textareaCode" wrap="logical" spellcheck="false">
  
-		<!DOCTYPE html>
-		<html>
-		<head>
-		<title>Sofyan sauri</title>
-
-</head>
+ <!DOCTYPE html>
+<html>
 <body>
-<img src="http://127.0.0.1:8000/asset/img/logo.png" height='100'>
 
-<h2>JavaScript Variables</h2>
-<p>contoh pengunana variabel x, y, and z .</p>
+
+<img src="http://127.0.0.1:8000/asset/img/logo.png" height='150'>
+
+<H1> UTS _ Sofyan Sauri _ </h1>
+<H2> NPM: 201910225004 </h2>
+<h2>JavaScript For Of Loop</h2>
+<p>The for of statement loops thro<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript For Of Loop</h2>
+<p>The for of statement loops through the values of any iterable object:</p>
+
 <p id="demo"></p>
+
 <script>
-let x = 5;
-let y = 6;
-let z = x + y;
-document.getElementById("demo").innerHTML ="The value of z is: " + z;
+const cars = ["BMW", "Volvo", "Mini"];
+
+let text = "";
+for (let x of cars) {
+  text += x + "<br>";
+}
+
+document.getElementById("demo").innerHTML = text;
+</script>
+
+</body>
+</html>ugh the values of any iterable object:</p>
+
+<p id="demo"></p>
+
+<script>
+const cars = ["BMW", "Volvo", "Mini"];
+
+let text = "";
+for (let x of cars) {
+  text += x + "<br>";
+}
+
+document.getElementById("demo").innerHTML = text;
 </script>
 
 </body>
