@@ -95,12 +95,17 @@ Contoh   ::</p>
 
 &lt;p id="demo"&gt;&lt;/p&gt;<br>
 
+
 &lt;script&gt;<br>
-let x = 5;<br>
-let y = 6;<br>
-let z = x + y;<br>
-document.getElementById("demo").innerHTML ="The value of z is: " + z;<br>
-&lt;/script&gt;<br>
+const cars = ["BMW", "Volvo", "Mini"];<br>
+
+let text = "";<br>
+for (let x of cars) {<br>
+  text += x + "<br>";
+}<br>
+
+document.getElementById("demo").innerHTML = text;<br>
+</script>
 
 &lt;/body&gt;<br>
 &lt;/html&gt;<br>
