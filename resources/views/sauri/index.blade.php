@@ -68,6 +68,8 @@ h4 {
 				<div class='box-body border-radius-none'>	
 				<p>Ini adalah UTS milik sofyan sauri
 Contoh   ::</p>
+<p>NPM: 201910225004 </p>
+<p>Pemrograman berbasis faramework</p>
 <h4>Ini hasil dari laravel yang di edit oleh Sofyan Sauri</h4>
 
 <p>4 Ways to Declare a JavaScript Variable:</p>
